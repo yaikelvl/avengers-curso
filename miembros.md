@@ -1,7 +1,7 @@
 # Lista de miembros de los Avengers
 
 1. Iron Man
-2. Captain America
+2. Nick Fury
 3. Thor
 4. Hulk
 5. Black Widow
@@ -14,5 +14,3 @@
 12. Spider-Man
 13. Doctor Strange
 14. Black Panther
-15. Captain Marvel
-16. Nick Fury
